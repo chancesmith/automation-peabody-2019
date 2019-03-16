@@ -1,0 +1,14 @@
+{
+  "name": "automation-peabody-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "author": "Chance Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^2.0.0-11"
+  }
+}
